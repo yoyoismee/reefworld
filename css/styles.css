@@ -33,18 +33,18 @@ color: white;
 }
 .btn-prime{
 color: white;
-background: #0379CD;
+background: #444444;
 }
 .btn-prime:hover {
 color:#fff;
 background:#007BD3;
-border-color: #007BD3;
+border-color: #444444;
 }
 .button {
 color: white;
-background: #0379CD;
+background: #444444;
 height: 58px;
-border: 2px solid #0379CD;
+border: 2px solid #444444;
 font: 500 22px "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 padding: 0 21px;
 -moz-transition: color 0.1s linear, background-color 0.1s linear, border-color 0.1s linear;
@@ -76,8 +76,8 @@ a.button:hover {
 color: white;
 }
 .button:hover {
-background:#1384D5;
-border-color: #1384D5;
+background:#555555;
+border-color: #555555;
 }
 .buttons-wrapper .button-stripe {
 margin-left: 14px;
@@ -119,8 +119,8 @@ padding-bottom: 100px;
 .mainBanner {
 padding: 30px 0;
 margin-bottom: 0;
-color: #25208c;
-background:#25208c;
+color: #222222;
+background:#222222;
 background-size: cover;
 text-align: center;
 background-size:cover;
@@ -194,7 +194,7 @@ margin-top: 20px;
 margin-bottom: 30px; 
 }
 .ourFeatures {
-  background: #25208c;
+  background: #222222;
   text-align: left;
   padding: 100px 0 0;
 }
@@ -202,7 +202,7 @@ margin-bottom: 30px;
 color:#fff;
 }
 .ourFeatures p{
-color:#E2FFCF;
+color: white;
 }
 .ourFeatures .row.row-padding {
   padding-top: 40px;
@@ -254,7 +254,7 @@ margin-left: -10px;
 padding: 40px 0;
 }
 .footer-section {
-background: #25208c;
+background: #222222;
 text-align: left;
 padding: 60px 0;
 }
@@ -280,10 +280,10 @@ display: block;
 float:right;
 }
 .social-icons a{ 
-color: #64b51b;
+color: white;
 text-decoration: none;
 padding: 0px 0 0 15px;
-border: 1px solid #64b51b;
+border: 1px solid white;
 border-radius: 50%;
 width: 45px;
 float: left;
